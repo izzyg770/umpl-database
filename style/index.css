@@ -1,0 +1,11 @@
+.header-style {
+    background-image: url('../src/header.jpg');
+}
+
+.navigation-bar {
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    font-size: 40px;
+    font-weight: bold;
+}
